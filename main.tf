@@ -28,3 +28,4 @@ resource "aws_security_group" "rds_sg" {
   name        = "rds-security-group-2"  # Changed name
   ...
 }
+
